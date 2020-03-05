@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html { transition: background-color .3s ease; }
+body {
+  text-align: center;
+}
+ul { list-style: none; }
+html { background-color: white; }
+body { color: #333; }
+::selection { background: #222; color: white; }
+h1 { color: #222; }
+a { color: #333; }
