@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /python-3.8.2/
+Disallow: /pdf/
+Disallow: /assets/
